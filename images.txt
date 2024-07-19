@@ -1,6 +1,7 @@
 pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
 portainer/portainer-ce
 ros:noetic
+hagb/docker-easyconnect:cli
 
 #nginx
 #支持私库
