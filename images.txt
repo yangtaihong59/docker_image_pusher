@@ -1,4 +1,4 @@
-ros:noetic
+osrf/ros:noetic-desktop-full
 
 #nginx
 #支持私库
