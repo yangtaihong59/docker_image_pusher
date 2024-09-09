@@ -1,4 +1,4 @@
-osrf/ros:noetic-desktop-full
+yz16/my_ros:latest
 
 #nginx
 #支持私库
