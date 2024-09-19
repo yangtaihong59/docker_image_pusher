@@ -1,4 +1,4 @@
-yz16/my_ros:latest
+sickcodes/docker-osx:sonoma
 
 #nginx
 #支持私库
